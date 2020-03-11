@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BelajarArchitecture</string>
+    <string name="_1">1</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority:</string>
+    <string name="delete_all_note">Delete All Note</string>
+    <string name="todo">TODO</string>
+</resources>
